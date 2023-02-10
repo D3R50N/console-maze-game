@@ -1,0 +1,15 @@
+{
+  "name": "astar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "astar.js",
+  "scripts": {
+    "game": "node index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "keypress": "^0.2.1"
+  }
+}
